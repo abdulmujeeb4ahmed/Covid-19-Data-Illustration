@@ -29,7 +29,6 @@
     ```
 
 **Usage:**
-- Clone the repository by running the following command in your terminal:
 - Clone this repository:
     ```bash
     git clone https://github.com/yourusername/Data-Illustration.git
