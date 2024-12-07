@@ -1,4 +1,4 @@
-**Data Illustration Project:**
+# **Data Illustration Project:**
 - This project analyzes COVID-19 cases in Los Angeles County using Python. The dataset is processed, cleaned, and visualized to provide insights into COVID-19 trends over time.
 
 **Features:**
